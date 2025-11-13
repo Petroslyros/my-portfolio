@@ -99,7 +99,15 @@ export default function HomePage() {
                         </div>
 
                         <p className="text-gray-700 text-lg leading-relaxed">
-                            Full-stack developer passionate about building modern web applications. I specialize in creating robust backend solutions with C#, .NET, and SQL, paired with responsive frontends using React and TypeScript. Experienced in solving complex problems through code and delivering applications from database to user interface.
+                            Junior Software Developer who
+                            enjoys building full stack applications
+                            using C#, .NET, and SQL for backend
+                            development, plus React and
+                            TypeScript on the frontend. Focused
+                            on solving problems through code
+                            and have hands on experience
+                            creating web applications from
+                            database to user interface.
                         </p>
 
                         {/* Social Links */}
