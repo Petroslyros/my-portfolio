@@ -67,7 +67,7 @@ export default function HomePage() {
                         <div className="mb-8">
                             <div className="w-48 h-48 md:w-56 md:h-56 rounded-2xl overflow-hidden border-4 border-indigo-500 shadow-xl">
                                 <img
-                                    src="/src/assets/profile.jpg"
+                                    src="/assets/profile.jpg"
                                     alt="Petros Lyros"
                                     className="w-full h-full object-cover"
                                 />
