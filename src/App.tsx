@@ -13,13 +13,6 @@ function App() {
                         {/* Portfolio Routes */}
                         <Route index element={<HomePage />}/>
 
-                        {/* Commented out for later */}
-                        {/*<Route path="login" element={<LoginPage />}/>*/}
-                        {/*<Route path="products" element={<ProtectedRoute />}>*/}
-                        {/*    <Route index element={<ProductsPage/>}/>*/}
-                        {/*    <Route path=":productId" element={<ProductPage/>}/>*/}
-                        {/*    <Route path="new" element={<ProductPage/>}/>*/}
-                        {/*</Route>*/}
                     </Route>
                 </Routes>
             </BrowserRouter>
